@@ -1,0 +1,1 @@
+This is for making a webserver - at the end, we will have an ec2 instance, fronted by an elb/alb, with route53 entry for dns/website name, that routes to your ec2 instance; you will select a normal template to deploy (jerome will provide)
